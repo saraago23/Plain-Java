@@ -1,4 +1,4 @@
-package ushtrime;
+package al.academy.ikubinfo.bootcamp.java.ushtrime;
 
 public class UshtrimeNumerike {
     public static void main(String[] args) {

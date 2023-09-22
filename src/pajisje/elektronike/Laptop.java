@@ -1,4 +1,4 @@
-package elektronike;
+package pajisje.elektronike;
 
 public class Laptop {
    static String sistemOperimi;
